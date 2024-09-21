@@ -11,7 +11,7 @@
 # ⚡Projects :
 | Name             | Description                                                            | 
 | ---------------- | -----------------------------------------------------------------------| 
-| `highlight-hero` | A powerful library designed to highlight code in Markdown content.     |
+| `highlight-hero` | Beautify code examples in your blogs and Ed-tech website.              |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
