@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 Currently working on [csprimer.in](https://www.csprimer.in) <br>🌱 I'm learning everything from compilers to distributed systems.<br>👯 Open for collaboration on any web-based project.<br>⚡ Fun Fact - I suck at math (working on it)<br>P.S - Checkout my projects, would love the help.
+🚧 Currently working on [csprimer.in](https://www.csprimer.in) <br>🌱 I love to learn about deep CS fundamentals with modern software development.<br>👯 Open for collaboration on any web-based project.<br>⚡ Fun Fact - I suck at math (working on it)<br>P.S - Checkout my projects, would love the help.
 
 
 # 🌐 Socials:
