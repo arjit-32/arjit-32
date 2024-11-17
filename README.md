@@ -11,7 +11,10 @@
 # ⚡Projects :
 | Name             | Description                                                            | 
 | ---------------- | -----------------------------------------------------------------------| 
+| `Portfolio`      | Personal Portfolio website built with Astro framework.                 |
 | `highlight-hero` | Beautify code examples in your blogs and Ed-tech website.              |
+| `csprimer`       | Curriculum to Master Core CS Fundamentals                              |
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
