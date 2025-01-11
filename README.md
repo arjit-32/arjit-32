@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 Currently working on [csprimer.in](https://www.csprimer.in) <br>🌱 I love to learn about deep CS fundamentals with modern software development.<br>👯 Open for collaboration.<br>⚡Design + Development <br>P.S - Checkout my projects, would love to collaborate
+🚧 Currently working on WebDev with Javascript stack <br>🌱 I love to learn about deep CS fundamentals with modern software development.<br>👯 Open for collaboration.<br>⚡Design + Development <br>P.S - Checkout my projects, would love to collaborate
 
 
 # 🌐 Socials:
